@@ -5,6 +5,6 @@ for i in range(10):
             print("{:d}{:d}".format(i, x),end = "\n")
         elif i != x and i < x:
             print("{:d}{:d}".format(i, x), end=",")
-
+print("\n")
 
 
