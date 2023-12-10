@@ -5,4 +5,4 @@ def square_stuff(num):
 
 
 def square_matrix_simple(matrix=[]):
-    return ([list(map(square_stuff, i) for i in matrix)])
+    return ([list(map(square_stuff, i)) for i in matrix])
