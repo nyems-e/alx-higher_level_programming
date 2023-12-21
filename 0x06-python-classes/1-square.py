@@ -13,4 +13,4 @@ class Square:
         Args:
         size(:obj:`int'): size of square
         """
-        self.size = size
+        self.__size = size
