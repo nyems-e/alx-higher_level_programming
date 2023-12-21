@@ -1,9 +1,10 @@
 #!/usr/bin/python3
-#-*- coding:utf-8 -*-
+# -*- coding:utf-8 -*-
 """ Square Class
 
 Defines square attributes
 """
+
 
 class Square:
     """Class that defines a square shape"""
