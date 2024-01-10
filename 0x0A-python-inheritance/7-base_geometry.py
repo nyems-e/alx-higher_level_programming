@@ -11,7 +11,7 @@ class BaseGeometry():
 
     def area(self):
         """
-        Function area 
+        Function area
 
         Raises:
             Exception: all the time
@@ -20,7 +20,7 @@ class BaseGeometry():
 
     def integer_validator(self, name, value):
         """
-        function integer_validator 
+        function integer_validator
         Args:
             name (str): string
             value (int): intger
