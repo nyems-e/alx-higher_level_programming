@@ -11,12 +11,12 @@ class MyInt(int):
 
     def __eq__(self, other):
         """
-        naughty
+        doing the opposite
         """
         return self.real != other
 
     def __ne__(self, other):
         """
-        naughty
+        doing the opposite
         """
         return self.real == other
